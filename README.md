@@ -12,3 +12,5 @@ to docs for open-source projects
 If you want to collaborate on food, code, writing or music please send an email to [edibotopic@gmail.com](mailto:edibotopic@gmail.com).
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/edibotopic?cardType=level&theme=nightowl&preferLogin=false)](https://git.io/awesome-stats-card)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=edibotopic&hide=html,css,scss,rmarkdown&theme=nightowl)
