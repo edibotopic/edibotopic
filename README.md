@@ -4,8 +4,8 @@
 university
 - 🖥️ I’m a self-taught programmer who tries to use whatever language
 is appropriate to the project at hand
-- 📃 I've been contributing to other open-source projects, especially
-in the area of documentation 
+- 📃 I'm equally as fascinated by documentation and contribute
+to docs for open-source projects
 - 🎹 I create experimental music as [Curtsy Rehearsed](https://bandcamp.com/curtsyrehearsed)
 - ✏️  I maintain [a blog](https://edibotopic.com) where I write on topics of a technical and philosophical nature
 
