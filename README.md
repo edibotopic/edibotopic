@@ -6,9 +6,11 @@ university
 - 📃 I'm fascinated by documentation and have contributed
 to docs for some of my favourite open-source projects, including [Quarto](https://quarto.org/) and [Motion Canvas](https://motioncanvas.io/) 
 - 🎹 I create experimental music as [Curtsy Rehearsed](https://curtsyrehearsed.bandcamp.com/)
-- ✏️ I maintain [a blog](https://edibotopic.com) where I write on topics of a technical and philosophical nature
-- 🤫 Soon I will finalise the publication of a peer-reviewed
-article on a [web-based physics simulation](https://github.com/edibotopic/stokes-law) I made and publish course notes rewritten according to the [Diátaxis](https://diataxis.fr/) framework
+- ✏️  I maintain [a blog](https://edibotopic.com) where I write on topics of a technical and philosophical nature
+- 📜 I published a peer-reviewed article in an education journal about
+my [web-based physics simulation](https://github.com/edibotopic/stokes-law)
+- 🤫 I'm currently working on a Python package for working with the Dispersed
+System Formalism (DSF), based on my [dsf-racket](https://edibotopic.com/blog/dsf-racket/) module
 
 If you want to collaborate on food, code, writing or music please send an email to [edibotopic@gmail.com](mailto:edibotopic@gmail.com).
 
