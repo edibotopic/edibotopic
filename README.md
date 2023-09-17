@@ -9,7 +9,7 @@ to docs for some of my favourite open-source projects, including [Quarto](https:
 - ✏️  I maintain [a blog](https://edibotopic.com) where I write on topics of a technical and philosophical nature
 - 📜 I published a peer-reviewed article in an education journal about
 my [web-based physics simulation](https://github.com/edibotopic/stokes-law)
-- 🤫 I'm currently working on a Python package for working with the Dispersed
+- 🤫 I'm currently developing a Python package for working with the Dispersed
 System Formalism (DSF), based on my [dsf-racket](https://edibotopic.com/blog/dsf-racket/) module
 
 If you want to collaborate on food, code, writing or music please send an email to [edibotopic@gmail.com](mailto:edibotopic@gmail.com).
